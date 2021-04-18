@@ -1,0 +1,10 @@
+
+Hello This is abhay tomar how are you 
+
+
+
+to save a file on vim editor press :w
+
+
+and to exit the vim editor use :q
+
